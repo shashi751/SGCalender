@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  SGCalender
+
 //
 //  Created by Shashi Gupta on 09/02/24.
 //
